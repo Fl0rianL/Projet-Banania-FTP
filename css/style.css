@@ -1,0 +1,30 @@
+#log, #arborescenceLocal ,#arborescenceDistant{
+	border: solid black 1px;
+	margin-bottom: 1em;
+
+	
+}
+
+#arborescenceLocal ,#arborescenceDistant{
+	
+}
+
+ .navbar-default .navbar-brand > a:hover {
+	
+
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #F0AD4E;
+    
+}
+
+#personne {
+
+	display: table-cell;
+    vertical-align: middle;
+    padding: 15px;
+    color: grey;
+
+
+}
